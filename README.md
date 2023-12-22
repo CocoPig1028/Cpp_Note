@@ -1,2 +1,2 @@
 # Cpp_Note
-Cpp_note
+복습용 C++ 정리 노트
